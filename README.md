@@ -36,6 +36,6 @@ I'm a passionate developer with a strong interest in machine learning, competeti
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-bansal-75089631b/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/bansal.shivam05/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bansal.shivam1729@gmail.com)
-[![Twitter](https://img.shields.io/badge/-X-000000?style=flat-square&logo=X&logoColor=white)](https://x.com/SHIVAMBANS12136)
+[![Twitter](https://img.shields.io/badge/--000000?style=flat-square&logo=X&logoColor=white)](https://x.com/SHIVAMBANS12136)
 
 ## ⭐️ _“The only way to do great work is to love what you do.” – Steve Jobs_ 
