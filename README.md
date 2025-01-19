@@ -1,7 +1,5 @@
 # Hi there, I'm Shivam Bansal 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=ShivamBansal1021)
-
 ## About Me
 
 I am a passionate software developer with a keen interest in web development, machine learning, web3, and competetive programming. I enjoy learning new technologies and applying them to solve real-world problems.
@@ -29,10 +27,6 @@ Here are some of the technologies and tools I work with:
 ### Tools and Platforms
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-
-## GitHub Stats
-
-![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShivamBansal1021&show_icons=true&theme=radical)
 
 ## Top Languages
 
